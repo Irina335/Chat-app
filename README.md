@@ -1,2 +1,2 @@
 # Chat-app
-This is a chat app using ajax and php
+This is a chat application using ajax and php
